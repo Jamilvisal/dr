@@ -1,6 +1,3 @@
-git clone https://github.com/Jamilvisal/dr.git
-cd dr
-python dr.py
 import requests,bs4,json,sys,random,datetime,time,re,subprocess,platform,struct
 from bs4 import BeautifulSoup as sop
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
@@ -260,3 +257,8 @@ def rcrack(uid,pwx,tl):
 				oks.append(cid)
 				break
 			else:
+				continue
+		loop+=1
+	except:
+		pass
+ALEX()
