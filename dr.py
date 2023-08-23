@@ -1,8 +1,3 @@
-JAMILVISALKING
-AND
-ATALKING
-IF YOU WANT TO HACK MY SCRIPT I WELL KILL YOU
-HHHHHHHHHHHHHHH
-I LIKE AFG
-hhhhhhhhhh
-😡😡😡😡😡
+git clone https://github.com/Jamilvisal/dr.git
+cd dr
+python dr.py
